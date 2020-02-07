@@ -10,7 +10,7 @@
 
 的**赫维兹矩阵**
 
-![Routh-Hurwitz](D:\GZM\study\ELSE\MIT DE\NOTES\Complement\Routh-Hurwitz.png)
+![Routh-Hurwitz](.\Complement\Routh-Hurwitz.png)
 
 的行列式的所有主子式  principal minors 为正则系统稳定
 
